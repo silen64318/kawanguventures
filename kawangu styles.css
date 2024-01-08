@@ -1,0 +1,68 @@
+body, h1, p {
+    background-color: #f4f4f4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: #000000;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+nav { 
+    background-color: #f1ebeb
+    padding: 10px;
+}
+
+nav a {
+    color: aqua
+    text-decoration: none;
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+#civil-road-works {
+    background-color: rgb(56, 139, 206);
+}
+
+#electrical-works {
+    background-color: #2409c0;
+}
+
+#building-construction-works {
+    background-color: #3fa106;
+}
+
+#water-works {
+    background-color: #16c9e0;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
